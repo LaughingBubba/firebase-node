@@ -1,4 +1,4 @@
-# Base Image - Node Platform
+# Base Image - Node Platform 
 FROM node:alpine
 LABEL maintainer="laughingbubba@gmail.com" version="0.9.0"
 
